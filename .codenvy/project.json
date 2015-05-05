@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{"project://test_hash_map CPP":{"ram":1000,"variables":{},"options":{}},"project://varios%20test%20CPP":{"ram":1000,"variables":{"configurationType":"cpp"},"options":{}}},"default":"system:/cpp/simple"},"description":"prueba con un hashmap -std?=c++11","type":"cpp","attributes":{"language":["cpp"]}}
