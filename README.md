@@ -1,7 +1,7 @@
 # README #
 
 This project was originally created under codenvy and imported to bitbucket.
-repo in codenvy: http://codenvy.com/git/d1/2c/5a/workspace8b2x8jl24u92sdcl/varios_test
+*Local GIT URL in codenvy: http://codenvy.com/git/d1/2c/5a/workspace8b2x8jl24u92sdcl/varios_test
 
 ### What is this repository for? ###
 
